@@ -1,1 +1,1 @@
-# scripts_cpp
+# CLI for infrastructure.
